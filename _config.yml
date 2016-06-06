@@ -1,14 +1,26 @@
-layout_spectrum: 0.9103943
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1684588
 color:
   saturation: 0.5809228
-  lightness: 0.6044641
   brandStrength: 0.1243436
+  rhythmicContrast: 0.2216932
   brandColors:
     - '#85ABD2'
     - '#6C6052'
     - '#252A30'
     - '#CDCCCD'
     - '#D89F82'
-  rhythmicContrast: 0.2216932
-typography_spectrum: 0.1684588
+  lightness: 0.6044641
+layout_spectrum: 0.2763158
 name: "Rob's random ramblings"
