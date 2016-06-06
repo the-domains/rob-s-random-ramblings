@@ -1,0 +1,14 @@
+layout_spectrum: 0.9103943
+color:
+  saturation: 0.5809228
+  lightness: 0.6044641
+  brandStrength: 0.1243436
+  brandColors:
+    - '#85ABD2'
+    - '#6C6052'
+    - '#252A30'
+    - '#CDCCCD'
+    - '#D89F82'
+  rhythmicContrast: 0.2216932
+typography_spectrum: 0.1684588
+name: "Rob's random ramblings"
