@@ -10,19 +10,19 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1684588
+typography_spectrum: 0.07596687483601272
 color:
-  saturation: 0.5809228
-  brandStrength: 0.1243436
-  rhythmicContrast: 0.2216932
+  saturation: 0.44456522981636226
+  brandStrength: 0.7559480564668775
+  rhythmicContrast: 0.6525416488293558
   brandColors:
-    - '#85ABD2'
-    - '#6C6052'
-    - '#252A30'
-    - '#CDCCCD'
-    - '#D89F82'
-  lightness: 0.6044641
-layout_spectrum: 0.2763158
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  lightness: 0.541012737667188
+layout_spectrum: 0.8311235092114657
 name: "Rob's random ramblings"
 author:
   name: Rob Norton
