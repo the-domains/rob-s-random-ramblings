@@ -12,17 +12,17 @@ collections:
       number: 10
 typography_spectrum: 0.07596687483601272
 color:
-  saturation: 0.44456522981636226
-  brandStrength: 0.7559480564668775
-  rhythmicContrast: 0.6525416488293558
+  saturation: 0.9862662917003036
+  brandStrength: 0.5569384142290801
+  rhythmicContrast: 0.25473751593381166
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  lightness: 0.541012737667188
-layout_spectrum: 0.8311235092114657
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  lightness: 0.4879057339858264
+layout_spectrum: 0.10990817891433835
 name: "Rob's random ramblings"
 author:
   name: Rob Norton
