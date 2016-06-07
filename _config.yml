@@ -24,3 +24,6 @@ color:
   lightness: 0.6044641
 layout_spectrum: 0.2763158
 name: "Rob's random ramblings"
+author:
+  name: Rob Norton
+  email: robnorton@gmail.com
