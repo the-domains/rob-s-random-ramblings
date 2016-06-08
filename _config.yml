@@ -1,20 +1,23 @@
+author:
+  name: Rob Norton
+  email: robnorton@gmail.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.07596687483601272
 color:
   saturation: 0.9862662917003036
   brandStrength: 0.5569384142290801
-  rhythmicContrast: 0.25473751593381166
+  rhythmicContrast: 0.2547375159338117
   brandColors:
     - '#468966'
     - '#FFF0A5'
@@ -22,8 +25,5 @@ color:
     - '#B64926'
     - '#8E2800'
   lightness: 0.4879057339858264
-layout_spectrum: 0.10990817891433835
+layout_spectrum: 1
 name: "Rob's random ramblings"
-author:
-  name: Rob Norton
-  email: robnorton@gmail.com
