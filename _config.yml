@@ -7,23 +7,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.07596687483601272
 color:
   saturation: 0.9862662917003036
-  brandStrength: 0.5569384142290801
-  rhythmicContrast: 0.2547375159338117
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
+  brandStrength: 0.5878136
   lightness: 0.4879057339858264
-layout_spectrum: 0.20198692358098924
-name: "Rob's random ramblings"
+  brandColors:
+    - '#131418'
+    - '#FFFFFF'
+    - '#4E4D4B'
+    - '#8F9497'
+    - '#B7BEC8'
+  rhythmicContrast: 0.2547375159338117
+typography_spectrum: 0.3691756
+layout_spectrum: 0.9247312
+name: Rob's random ramblings
